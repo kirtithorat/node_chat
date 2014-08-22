@@ -1,0 +1,16 @@
+{
+  "name": "chat_with_node",
+  "version": "0.0.0",
+  "description": "Chat application using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kirti Thorat",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^1.4.8",
+    "socket.io": "^1.0.6"
+  }
+}
