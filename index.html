@@ -56,7 +56,8 @@
                 // Append 
 
                 messages.appendChild(message);
-                messages.insertBefore(message, messages.firstChild);
+                messages.insertBefore(message, messages.lastChild);
+                messages.scrollTop = messages.scrollHeight;
               }
             }
           });
