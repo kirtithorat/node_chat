@@ -1,6 +1,6 @@
-# Chat With Node
+# NodeChat
 
-"Chat With Node" is a real time chat application which allows you to chat using websockets. It's created using `Node.js`, `socket.io` and `MongoDB`.
+"NodeChat" is a real time chat application which allows you to chat using websockets. It's created using `Node.js`, `socket.io` and `MongoDB`.
 
 
 References: 
